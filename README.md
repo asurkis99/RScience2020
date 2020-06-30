@@ -1,2 +1,2 @@
-# RScience2020
- This is a repository for spring 2020 R training for researchers at NYU Langone 
+# R_COVID_2020
+ This is a repository for summer 2020 R training for COVID Internal Medicine Residents Research Blocks 
